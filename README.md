@@ -1,14 +1,19 @@
 # G4-Finsearch all Roadmaps
-
-
 ## Introduction
-
 This repository contains  G4 FinSearch. The team members and their respective roll numbers are listed below:
 
 - Aman Verma (Roll No. 22B3929)
 - Hardik Khariwal (Roll No. 22B3954)
 - Shruti Ghoniya (Roll No. 22B1288)
 - Sachin Yadav (Roll No. 22B1842)
+
+  What we performed in this project:
+  -Evaluated the performance of Reinforcement Learning (RL) and AutoRegressive Integrated Moving Average
+(ARIMA) models in analysis, offering insights into their assets and drawbacks in predicting market trends
+-Compared metrics, encompassing annualized mean returns, volatility, Sharpe Ratio, and maximum drawdown, to
+deliver a comprehensive assessment of the investment’s performance which aids to understand returns
+-Provided insights into the significance of risk tolerance, investment objectives, prevailing market conditions, this
+analysis offers guidance in the selection process between RL and ARIMA models for financial decision-making
 
 ## Description Roadmap3 and 4
 
